@@ -2,9 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CC 6L'
+copyright = 'BSIT3, 2025'
+author = 'Kimverlie Eldo'
+         'Luwela Espinosa'
+         'Darnel dave chicano'
+         'Mayvill joy Pampanga'
 
 release = '0.1'
 version = '0.1.0'
